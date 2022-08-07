@@ -13,7 +13,7 @@ and has the following features:
   - [Table of contents](#table-of-contents)
   - [1. Setup](#1-setup)
     - [1.1 Node.js](#11-nodejs)
-    - [1.2 How to install this template](#12-how-to-install-this-template)
+    - [1.2 Clone this repo](#12-clone-this-repo)
     - [1.3 TypeScript](#13-typescript)
   - [2. Scripts](#2-scripts)
 
@@ -23,17 +23,7 @@ and has the following features:
 
 First install the Node.js higher or equal to 14.0.0. Use the JavaScript Tool Manager [Volta](https://volta.sh/) or the [Node Version Manager](https://github.com/nvm-sh/nvm).
 
-### 1.2 How to install this template
-
-After successfully installing Node.js you can create an app using this skeleton. We recommend creating a new app using `npx` or `yarn create`, which sets up everything automatically for you. To create a project, run:
-
-```bash
-npx create-nextjs-skeleton
-# or
-npm init nextjs-skeleton
-# or
-yarn create nextjs-skeleton
-```
+### 1.2 Clone this repo
 
 ### 1.3 TypeScript
 
